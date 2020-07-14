@@ -36,15 +36,20 @@ Individual unit lectures and data exercises are produced by the respective instr
 ## Installation
 A .yml file is provided in order to create a python environment for running data exercises.  This environment can be created by running:
 
-  >> conda env create -f roses_env.yml
+```
+conda env create -f roses_env.yml
+```
 
 If this command executes correctly and finishes without errors, it should print out instructions on how to activate and deactivate the new environment:
 
 To activate the environment use:
-  
-  >> conda activate infrapy_env
+
+```
+conda activate roses
+```
 
 To deactivate the environment use:
 
-  >> conda deactivate
-
+```
+conda deactivate
+```
