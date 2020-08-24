@@ -1,0 +1,13 @@
+name: roses_array
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - utm
+  - obspy
+  - numpy
+  - pyproj
+  - matplotlib
+  - scikit-learn
+  - ipython
+  - notebook
