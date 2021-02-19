@@ -4,7 +4,7 @@ environment:
 - Use the default 'roses' environment.
 
 notebooks:
-- The notebook for this unit should run wihtout exception.
+- The notebook for this unit should run without exception.
 
 data:
 - Required data are provided in txt files.

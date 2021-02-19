@@ -14,6 +14,6 @@ data:
 faq/notes:
 - Refer to the official Obspy tutorial for more info: docs.obspy.org/tutorial/
 - Consider using Python's f-strings when building a string from variables (like nslc codes).
-- Obspy's 'get_stations' and 'attach_response' can be used if 'get_waveforms(...,attach_response=True) does not work as expected'
+- Obspy's 'get_stations' and 'attach_response' can be used if 'get_waveforms(...,attach_response=True) does not work as expected.
 - Obspy's 'read_inventory' function is used to attach response from a local file.
 
