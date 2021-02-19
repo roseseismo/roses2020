@@ -46,3 +46,10 @@ To deactivate the environment, use:
 ```
 conda deactivate
 ```
+
+## Additional Resources
+[Python tutorial](https://docs.python.org/3/tutorial/index.html)<br>
+[Getting Started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/)<br>
+[Jupyter Notebook Overview](https://jupyter-notebook.readthedocs.io/en/stable/)<br>
+[ObsPy Tutorial](https://docs.obspy.org/tutorial/)<br>
+
