@@ -1,4 +1,4 @@
-name: roses
+name: roses_pytorch
 
 channels:
   - conda-forge
