@@ -6,6 +6,8 @@ ROSES = Remote Online Sessions for Emerging Seismologists. ROSES was conceived b
 
 Recorded lectures are hosted on the IRIS website [here](https://www.iris.edu/hq/inclass/course/roses), while this repository serves to maintain data exercises and lectures for the seismology community as a whole.
 
+![Test Image 1](https://github.com/fdannemanndugick/roses2020/blob/master/roses_logo.jpg)
+
 ## Summer School Topics and Instructors
 6/25 (Th) ObsPy — Sydney Dybing, U. of Oregon
 
