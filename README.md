@@ -1,6 +1,8 @@
 # roses2020
 
-File Repository for ROSES 2020.
+File Repository for ROSES 2020. You can view and run the course materials online by clicking on the badge below:
+
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fdannemanndugick/roses2020/master)
 
 ROSES = Remote Online Sessions for Emerging Seismologists. ROSES was conceived by the leadership of the Seismology Section of the American Geophysical Union, and ROSES 2020 was organized by Fransiska Dannemann Dugick and Suzan van der Lee. The school is targeted towards advanced Ph.D. students, who have used Python before and are familiar navigating in Linux/Unix. Lectures cover topics at the intersection of Seismology and Data Science.
 
