@@ -1,6 +1,8 @@
 # roses2020
 
-File Repository for ROSES 2020.
+File Repository for ROSES 2020. You can view and run the course materials online by clicking on the badge below:
+
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fdannemanndugick/roses2020/master)
 
 ROSES = Remote Online Sessions for Emerging Seismologists. ROSES was conceived by the leadership of the Seismology Section of the American Geophysical Union, and ROSES 2020 was organized by Fransiska Dannemann Dugick and Suzan van der Lee. The school is targeted towards advanced Ph.D. students, who have used Python before and are familiar navigating in Linux/Unix. Lectures cover topics at the intersection of Seismology and Data Science.
 
@@ -37,7 +39,7 @@ Individual unit lectures and data exercises are produced by the respective instr
 ## Installation
 A `.yml` file is provided in order to create a Python environment using conda for running data exercises.  This environment can be created by running:
 ```
-conda env create -f roses_env.yml
+conda env create -f environment.yml
 ```
 
 If this command executes correctly and finishes without errors, it should print out instructions on how to activate and deactivate the new environment. To activate the environment, use:
