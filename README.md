@@ -36,6 +36,8 @@ Recorded lectures are hosted on the IRIS website [here](https://www.iris.edu/hq/
 ## Authorship
 Individual unit lectures and data exercises are produced by the respective instructor.  This GitHub repository is maintained by Fransiska Dannemann Dugick with assistance from the ROSES 2020 instructor team.
 
+[![DOI](https://zenodo.org/badge/279129879.svg)](https://zenodo.org/badge/latestdoi/279129879)
+
 ## Installation
 A `.yml` file is provided in order to create a Python environment using conda for running data exercises.  This environment can be created by running:
 ```
