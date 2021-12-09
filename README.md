@@ -25,7 +25,7 @@ Recorded lectures are hosted on the IRIS website [here](https://www.iris.edu/hq/
 
 8/4 (T) Machine Learning — Zachary Ross, CalTech
 
-8/11 (T) PyGMT — Liam Toney, U. of Alaska Fairbanks
+8/11 (T) PyGMT — [Liam Toney](https://liam.earth), U. of Alaska Fairbanks
 
 8/18 (T) Inversion, Bayesian — Steve Myers, L. Livermore National Lab
 
